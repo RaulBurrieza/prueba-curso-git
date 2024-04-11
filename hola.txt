@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 prrrrrrrrrrrr
+=======
+hola que tal
+>>>>>>> prueba-merge
